@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erik Manukyan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python and I'm in my first year as a student in computer science course
+- 🌱 I’m currently learning Java and I'm in my second year of studies
 - 💞️ I’m looking to collaborate on any project, as I'm very keen to grow and learn
 - 📫 How to reach me: erikmanukyan098@gmail.com
 - 😄 Pronouns: He/His
