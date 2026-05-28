@@ -1,7 +1,7 @@
 ## Hey, I’m Erik 👋
 
 🎓 CS student @ University of Westminster  
-🤖 AI Agent Engineer Intern @ aiXplain  
+🤖 AI Investment Research Intern @ Torma Capital  
 🛠️ Building AI agents, backend systems & practical tools
 
 ### 🧰 Tech Stack
@@ -16,7 +16,7 @@
 
 ### 🔭 Currently
 - AI agent development & research
-- Backend systems with Java & Python
+- Full stack development with React & FastAPI
 - Building projects for real-world impact
 
 
